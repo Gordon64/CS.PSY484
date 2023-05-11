@@ -2219,6 +2219,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 505081827}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &506558048 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1659199432490802, guid: c6b698bafc4b05c43a452c3d6dfeb206,
+    type: 3}
+  m_PrefabInstance: {fileID: 1398327987}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &518098268
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3808,6 +3814,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 842422644}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &890177133 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1089266721439908, guid: 8abce429b9303e14bbc71a3cb6c5cc25,
+    type: 3}
+  m_PrefabInstance: {fileID: 2044083683}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &890177136
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 890177133}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.1785295, y: 0.8000861, z: 1.1720734}
+  m_Center: {x: 0, y: 0.40020415, z: -0.000000059604645}
 --- !u!1001 &904848727
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6131,6 +6156,19 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1398327987}
   m_PrefabAsset: {fileID: 0}
+--- !u!65 &1398327991
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 506558048}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.4749755, y: 1.1384851, z: 0.53805906}
+  m_Center: {x: 0.00000020116565, y: 0.5646388, z: 0.00000013411044}
 --- !u!1001 &1410332187
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6555,7 +6593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 1521371589}
-  m_TurnSpeed: 60
+  m_TurnSpeed: 90
   m_LeftHandTurnAction:
     m_UseReference: 0
     m_Action:
@@ -6595,7 +6633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 1521371589}
-  m_MoveSpeed: 5
+  m_MoveSpeed: 10
   m_EnableStrafe: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 1
