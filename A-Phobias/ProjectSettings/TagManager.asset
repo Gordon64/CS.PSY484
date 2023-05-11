@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - AudioCollider1
+  - AudioCollider2
+  - AudioCollider3
   layers:
   - Default
   - TransparentFX
