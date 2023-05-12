@@ -1,5 +1,4 @@
-# CS.PSY484
-# Group 10
+# CS.PSY484, Group 10
 
 Controls:
 - Left joystick for movement
