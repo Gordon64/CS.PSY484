@@ -1,4 +1,4 @@
-# A-Phobias: CS.PSY484, Group 10
+# CS.PSY484, Group 10: A-Phobias
 
 # Controls
 - Left joystick for movement
