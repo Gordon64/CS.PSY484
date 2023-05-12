@@ -2,7 +2,7 @@
 
 # Controls
 - Left joystick for movement
-- Rigth joystick for camera rotation (can also rotate head)
+- Right joystick for camera rotation (can also rotate head)
 - Right back trigger to click (for menu buttons)
 
 # Description
